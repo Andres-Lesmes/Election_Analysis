@@ -24,6 +24,8 @@
     - Raymon Anthony Doane received 11,606 votes which represents 3.1% of the total votes.
   * The winner of the election was Diana DeGette who received 272,892 votes which represents 73.8% of the total votes.
   
+  <img width="519" alt="Screen Shot 2020-08-08 at 7 05 16 PM" src="https://user-images.githubusercontent.com/68616522/89722834-7c41fd80-d9bc-11ea-8204-127695f92d93.png">
+  
 ## Election_Audit Summary
   The script that we used to analyze the congressional voting results can be used to analyze an audit state and local elections. For example, for local county elections that would have a winner per county. We could modify the script so for each county we get the candidate, total votes and percentage votes and the winner per county. Also, we could modify the script so it can be used for mayor elections and it would print out the winner, total votes and percentage votes per city. 
   
